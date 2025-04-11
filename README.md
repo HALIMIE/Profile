@@ -22,7 +22,6 @@
 
 ##  자격 및 수상
 
-- 정보처리기사  
 - OPIc IM2
 - [Intel] 엣지 AI SW 아카데미 수료
 - 2025 ICT 융합 프로젝트 공모전 참가
@@ -40,33 +39,7 @@
 - **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode  
 - **통신 기술**: UART, TCP/IP, Bluetooth, Wi-Fi  
 - **AI/IoT**: YOLOv8, OpenCV, MariaDB, PHP, HTML, Linux Socket  
-- **기타**: Git, Linux, MySQL, Android 연동
-
----
-
-## 프로젝트 요약
-
-### 🔸 SafeStep (신발 마모도 측정 시스템)
-- YOLOv8 기반 딥러닝 모델로 마모도 인식
-- Jetson Nano + Arduino + Raspberry Pi 연동
-- 자동 스프레이 분사, 사용자 알림, 웹 UI 구현
-
-### 🔸 PWM 제어 자동 바람기계
-- CDS 센서 기반 모터 제어
-- STM32의 PWM, UART, 인터럽트 활용
-- 3가지 모드 수동/시간/자동 설정
-
-### 🔸 스마트 IoT 홈
-- 온습도/조도 센서 기반 가전 제어
-- STM32 + 아두이노 + Android 앱 연동
-- MariaDB 서버 구축 및 LCD 시각화
-
-### 🔸 코드 채점 시스템
-- C 기반 소켓 서버, GUI 통신 처리
-- Named pipe + fork() 통한 병렬 채점
-- 비동기 통신, 캐시 최적화 구현
-
-### 🔸 C++ 개구리 게임
+- **기타**: Git, Linux임
 - 객체지향 게임 구조 구현
 - STM32 LCD 출력 및 UI 설계
 - IObject, GameManager 클래스 설계
