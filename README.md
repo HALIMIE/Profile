@@ -103,6 +103,8 @@
  - 데이터 연동	JSON 데이터 파싱
  - UI 구성	QQmlApplicationEngine을 통한 QML UI 로딩, Context Property 연동 (rootContext)
  - 모듈 설계	WeatherDataManager 클래스에서 데이터 수집, 가공, 전달 기능 통합
+
+ - https://github.com/HALIMIE/LinuxWeather.git
  
 
  
