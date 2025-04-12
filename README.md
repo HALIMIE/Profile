@@ -38,7 +38,7 @@
 - **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode  
 - **통신 기술**: UART, TCP/IP, Bluetooth, Wi-Fi  
 - **AI/IoT**: YOLOv8, OpenCV, MariaDB, PHP, HTML, Linux Socket  
-- **기타**: Git, Linux임
+- **기타**: Git, Linux
 - 객체지향 게임 구조 구현
 - STM32 LCD 출력 및 UI 설계
 - IObject, GameManager 클래스 설계
@@ -71,8 +71,8 @@
  - Jetson Nano + Arduino + Raspberry Pi 연동
  - 자동 스프레이 분사, 사용자 알림, 웹 UI 구현
 
- - https://github.com/HALIMIE/SafeStep
- - 
+ - [https://github.com/HALIMIE/SafeStep](https://github.com/HALIMIE/SafeStep_)
+   
  
  ### 🔸 PWM 제어 자동 바람기계
  - CDS 센서 기반 모터 제어
@@ -88,6 +88,10 @@
  - C 기반 소켓 서버, GUI 통신 처리
  - Named pipe + fork() 통한 병렬 채점
  - 비동기 통신, 캐시 최적화 구현
+
+ - https://github.com/HALIMIE/CodeJudge
+
+   
  
  ### 🔸 C++ 무단횡단 방지 게임
  - 객체지향 게임 구조 구현
@@ -95,6 +99,8 @@
  - IObject, GameManager 클래스 설계
 
  - https://github.com/HALIMIE/CppGAME
+
+   
  
  ### 🔸 호텔 관리 시스템 (MySQL)
  - 고객/예약/객실 관리 시스템 구현
