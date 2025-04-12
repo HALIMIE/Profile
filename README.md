@@ -90,6 +90,8 @@
  - 객체지향 게임 구조 구현
  - STM32 LCD 출력 및 UI 설계
  - IObject, GameManager 클래스 설계
+
+ - https://github.com/HALIMIE/CppGAME
  
  ### 🔸 호텔 관리 시스템 (MySQL)
  - 고객/예약/객실 관리 시스템 구현
