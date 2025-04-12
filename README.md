@@ -74,16 +74,6 @@
  - [https://github.com/HALIMIE/SafeStep](https://github.com/HALIMIE/SafeStep_)
    
  
- ### 🔸 PWM 제어 자동 바람기계
- - CDS 센서 기반 모터 제어
- - STM32의 PWM, UART, 인터럽트 활용
- - 3가지 모드 수동/시간/자동 설정
- 
- ### 🔸 스마트 IoT 홈
- - 온습도/조도 센서 기반 가전 제어
- - STM32 + 아두이노 + Android 앱 연동
- - MariaDB 서버 구축 및 LCD 시각화
- 
  ### 🔸 코드 채점 시스템
  - C 기반 소켓 서버, GUI 통신 처리
  - Named pipe + fork() 통한 병렬 채점
@@ -100,15 +90,8 @@
 
  - https://github.com/HALIMIE/CppGAME
 
-   
- 
- ### 🔸 호텔 관리 시스템 (MySQL)
- - 고객/예약/객실 관리 시스템 구현
- - MySQL 기반 DB 설계 및 SQL 최적화
- - 콘솔 UI 기반 기능 통합
-   
 
- ### 🔸 날씨 UI 시스템 (Qt/QML)
+  ### 🔸 날씨 UI 시스템 (Qt/QML)
  - 프로그래밍 언어	C++, QML
  - 프레임워크	Qt 6, QtQuick, Qt QML
  - 데이터 연동	JSON 데이터 파싱
@@ -116,7 +99,26 @@
  - 모듈 설계	WeatherDataManager 클래스에서 데이터 수집, 가공, 전달 기능 통합
 
  - https://github.com/HALIMIE/LinuxWeather.git
+
+  ### 🔸 PWM 제어 SMART 공조기
+ - CDS 센서 기반 모터 제어
+ - STM32의 PWM, UART, 인터럽트 활용
+ - 3가지 모드 수동/시간/자동 설정
+
+ - https://github.com/HALIMIE/Motor_Lab
+
  
+ ### 🔸 스마트 IoT 홈
+ - 온습도/조도 센서 기반 가전 제어
+ - STM32 + 아두이노 + Android 앱 연동
+ - MariaDB 서버 구축 및 LCD 시각화
+   
+ 
+ ### 🔸 호텔 관리 시스템 (MySQL)
+ - 고객/예약/객실 관리 시스템 구현
+ - MySQL 기반 DB 설계 및 SQL 최적화
+ - 콘솔 UI 기반 기능 통합
+   
 
  
  ### 🔸 Java 중력 엔진 장애물 피하기 게임
