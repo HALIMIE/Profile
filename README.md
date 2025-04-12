@@ -70,6 +70,9 @@
  - YOLOv8 기반 딥러닝 모델로 마모도 인식
  - Jetson Nano + Arduino + Raspberry Pi 연동
  - 자동 스프레이 분사, 사용자 알림, 웹 UI 구현
+
+ - https://github.com/HALIMIE/SafeStep
+ - 
  
  ### 🔸 PWM 제어 자동 바람기계
  - CDS 센서 기반 모터 제어
