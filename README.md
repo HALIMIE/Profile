@@ -100,6 +100,19 @@
 
  - https://github.com/HALIMIE/LinuxWeather.git
 
+  ### 🔸 호텔 관리 시스템 (MySQL)
+ - 고객/예약/객실 관리 시스템 구현
+ - MySQL 기반 DB 설계 및 SQL 최적화
+ - 콘솔 UI 기반 기능 통합
+   
+
+ 
+ ### 🔸 Java 중력 엔진 장애물 피하기 게임
+ - Java GUI 기반 게임
+ - 중력 반전 로직 및 충돌 감지 구현
+ - 단일 입력 기반의 물리 엔진 설계
+ 
+  
   ### 🔸 PWM 제어 SMART 공조기
  - CDS 센서 기반 모터 제어
  - STM32의 PWM, UART, 인터럽트 활용
@@ -112,20 +125,11 @@
  - 온습도/조도 센서 기반 가전 제어
  - STM32 + 아두이노 + Android 앱 연동
  - MariaDB 서버 구축 및 LCD 시각화
-   
- 
- ### 🔸 호텔 관리 시스템 (MySQL)
- - 고객/예약/객실 관리 시스템 구현
- - MySQL 기반 DB 설계 및 SQL 최적화
- - 콘솔 UI 기반 기능 통합
-   
 
+ - https://github.com/HALIMIE/smartIoT
+   
  
- ### 🔸 Java 중력 엔진 장애물 피하기 게임
- - Java GUI 기반 게임
- - 중력 반전 로직 및 충돌 감지 구현
- - 단일 입력 기반의 물리 엔진 설계
- 
+
  ---
  
  
