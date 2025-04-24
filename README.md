@@ -38,7 +38,7 @@
 - **통신 기술**: UART, TCP/IP, Bluetooth, Wi-Fi  
 - **AI/IoT**: YOLOv8, OpenCV, MariaDB, PHP, HTML, Linux Socket  
 - **임베디드**: STM32, ATmega128, Arduino, Raspberry Pi, Jetson Nano  
-- **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode
+- **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio, Arduino IDE, VSCode
 - **기타**: Git, Linux
 - 객체지향 게임 구조 구현
 - STM32 LCD 출력 및 UI 설계
