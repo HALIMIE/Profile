@@ -33,34 +33,24 @@
 
 ##  기술 스택 (Tech Stack)
 
-- **언어**: C, C++, Python, Java, JavaScript  
-- **임베디드**: STM32, ATmega128, Arduino, Raspberry Pi, Jetson Nano  
-- **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode  
+- **언어**: C, C++, Python, Java, JavaScript
+- **Database**: MySQL, MariaDB
 - **통신 기술**: UART, TCP/IP, Bluetooth, Wi-Fi  
 - **AI/IoT**: YOLOv8, OpenCV, MariaDB, PHP, HTML, Linux Socket  
+- **임베디드**: STM32, ATmega128, Arduino, Raspberry Pi, Jetson Nano  
+- **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode
 - **기타**: Git, Linux
 - 객체지향 게임 구조 구현
 - STM32 LCD 출력 및 UI 설계
 - IObject, GameManager 클래스 설계
-  연락처
- 
- - **Phone**: 010-4488-6885 
- - **Email**: halim0214@gmail.com  
- - **GitHub**: [https://github.com/HALIMIE](https://github.com/HALIMIE)  
+
  
  
  ---
  
  
  
- ##  기술 스택 (Tech Stack)
  
- - **언어**: C, C++, Python, Java, JavaScript  
- - **임베디드**: STM32, ATmega128, Arduino, Raspberry Pi, Jetson Nano  
- - **툴 & 플랫폼**: STM32CubeIDE, Microchip Studio,, Arduino IDE, VSCode  
- - **통신 기술**: UART, TCP/IP, Bluetooth, Wi-Fi  
- - **AI/IoT**: YOLOv8, OpenCV, MariaDB, PHP, HTML, Linux Socket  
- - **기타**: Git, Linux, MySQL, Android 연동
  
  ---
  
@@ -104,6 +94,7 @@
  - 고객/예약/객실 관리 시스템 구현
  - MySQL 기반 DB 설계 및 SQL 최적화
  - 콘솔 UI 기반 기능 통합
+ - 인덱스 최적화로 쿼리 속도 개선
    
 
  
@@ -117,6 +108,7 @@
  - CDS 센서 기반 모터 제어
  - STM32의 PWM, UART, 인터럽트 활용
  - 3가지 모드 수동/시간/자동 설정
+ - CDS 센서 노이즈 필터링 → 에너지 효율 15%↑
 
  - https://github.com/HALIMIE/Motor_Lab
 
